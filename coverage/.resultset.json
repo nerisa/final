@@ -1,0 +1,41 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/nerisa/codehome/project/RubymineProjects/final/test/models/user_test.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/home/nerisa/codehome/project/RubymineProjects/final/app/controllers/home_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/nerisa/codehome/project/RubymineProjects/final/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/home/nerisa/codehome/project/RubymineProjects/final/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/nerisa/codehome/project/RubymineProjects/final/app/helpers/home_helper.rb": [
+        1,
+        null
+      ]
+    },
+    "timestamp": 1480397551
+  }
+}
